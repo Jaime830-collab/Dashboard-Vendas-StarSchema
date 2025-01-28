@@ -7,5 +7,3 @@ Conceitos empregados:
   <li>Relacionamento e cardinalidade</li>
 </ul>
 
-Arquivo:
-https://lnkd.in/ey8Wavq
